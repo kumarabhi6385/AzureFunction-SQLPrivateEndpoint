@@ -52,5 +52,5 @@
 ```
 
 ## 2. deploy azure function using below command on terminal.
-func azure functionapp publish "`<function_app_name>`"
+func azure functionapp publish `<function_app_name>`
 
