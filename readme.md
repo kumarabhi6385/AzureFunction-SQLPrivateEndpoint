@@ -39,6 +39,7 @@
 
 # How to use this code.
 ## 1. Make sure you have added local.setting.json with below content
+```json
 {
   "IsEncrypted": false,
   "Values": {
